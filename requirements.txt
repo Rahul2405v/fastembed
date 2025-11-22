@@ -1,15 +1,15 @@
-fastapi
-uvicorn
-pydantic
-python-dotenv
-pymongo
-orjson
+fastapi==0.110.0
+uvicorn==0.29.0
+pydantic==2.6.4
+python-dotenv==1.0.1
+pymongo==4.6.3
+orjson==3.10.7
 
-langchain-core
+langchain-core==0.2.0
 langchain==0.2.10
 langchain-community==0.2.6
-langchain-groq
-langchain-text-splitters
+langchain-groq==0.1.5
+langchain-text-splitters==0.0.1
 
 fastembed==0.7.3
 numpy==2.1.1
